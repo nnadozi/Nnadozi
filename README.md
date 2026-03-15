@@ -1,6 +1,11 @@
-<h3>🚀 Software Developer</h3> <p> I specialize in building <strong>cross-platform mobile apps</strong> using <strong>React Native</strong> and <strong>Expo</strong>. I also have experience in <strong>web development</strong> and <strong>game development</strong>. Quick learner who enjoys solving problems and exploring new technologies. </p> <p>
+<h3>👋</h3>
 
-<h3>🧰 Languages & Tools</h3>
+<p>
+I specialize in building <strong>cross-platform mobile apps</strong> using React Native and Expo. 
+I also have experience in <strong>full-stack development</strong> and <strong>game development</strong>. 
+I enjoy solving challenging problems and turning ideas into real, shipped products.
+</p>
+
 
 <p>
   <!-- Existing icons... -->
@@ -29,4 +34,8 @@
   <a href="https://git-scm.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
   </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+  </a>
+  
 </p>

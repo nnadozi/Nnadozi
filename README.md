@@ -6,10 +6,7 @@ I also have experience in <strong>full-stack development</strong> and <strong>ga
 I enjoy solving challenging problems and turning ideas into real, shipped products.
 </p>
 
-
 <p>
-  <!-- Existing icons... -->
-
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>
   <a href="https://expo.dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="40" height="40" alt="Expo" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
@@ -37,5 +34,10 @@ I enjoy solving challenging problems and turning ideas into real, shipped produc
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
   </a>
-  
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="SwiftUI" />
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode" />
+  </a>
 </p>

@@ -1,4 +1,3 @@
-<h3>👋</h3>
 <p>
 I specialize in <strong>mobile development</strong>, and also have experience in <strong>frontend</strong>, <strong>backend</strong>, <strong>full-stack</strong>, and <strong>video game</strong> development. I enjoy solving challenging problems and turning ideas into real, shipped products.
 </p>
@@ -27,3 +26,4 @@ I specialize in <strong>mobile development</strong>, and also have experience in
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)

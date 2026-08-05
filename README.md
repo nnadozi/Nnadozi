@@ -1,5 +1,5 @@
 <p>
-I specialize in <strong>mobile development</strong>, and also have experience in <strong>frontend</strong>, <strong>backend</strong>, <strong>full-stack</strong>, and <strong>video game</strong> development. I enjoy solving challenging problems and turning ideas into real, shipped products.
+I specialize in <strong>mobile development </strong>(iOS & Android), and also have experience in <strong>fullstack web</strong> and <strong> embedded systems</strong>. 
 </p>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
